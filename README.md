@@ -1,14 +1,10 @@
-# @sg-types
+# @nft-requests
 
-Пакет с запросами к API Skill Labs
+## Install
 
-## Установка
-Чтобы установить пакет в свой проект, нужно добавить запись в объект `dependencies` в файле package.json: 
+> ```"@nft-requests": "nft-requests"```
 
-> ```"@sk-requests": "git+https://anatoly_skill_guilds:glpat-LFGzwQF_v3gL42vU6nf5@gitlab.com/skillguilds_repo/requests.git#main"```
-
-# Использование
-Все сервисы лежат в корневом файле пакета, которые моно достать через деструктуризацию
+# Usage
 
  ```
  import { ProfileService } from "@sk-requests"
