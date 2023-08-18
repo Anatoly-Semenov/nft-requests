@@ -1,5 +1,5 @@
-import { GameService } from "@sk-types/src/api/game-service"
-import { SortType } from "@sk-types"
+import { GameService } from "@nft-types/src/api/game-service"
+import { SortType } from "@nft-types"
 
 export type UpcomingGamesResponse = {
 	count: number

@@ -1,4 +1,4 @@
-import { AnyObject } from "@sk-types"
+import { AnyObject } from "@nft-types"
 
 export interface SendFeedbackBody {
 	type: string

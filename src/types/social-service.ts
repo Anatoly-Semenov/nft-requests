@@ -1,4 +1,4 @@
-import { SocialService } from "@sk-types/src/api/social-service"
+import { SocialService } from "@nft-types/src/api/social-service"
 
 export interface StatsParams {
 	gameId: number

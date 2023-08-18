@@ -1,4 +1,4 @@
-import { AnalyticsService } from "@sk-types/src/api/analytics-service"
+import { AnalyticsService } from "@nft-types/src/api/analytics-service"
 
 export type CommonInfoResponse = AnalyticsService.ScholarColumn[]
 
